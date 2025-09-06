@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+.nr-1 {
+    height: auto;
+    font-size: 20px;
+    background-color:rgba(255, 0, 0, 0.3);
+}/* Add CSS Styling */
+
+#nr-2 {
+    font-size: 50px;
+    color: blue;
+}
+
+.nr-3{
+    font-size: 40px;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+#nr-4{
+    background-color: rgba(0, 255, 0, 0.3);
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.nr-5{
+    background-color: rgba(255, 0, 0, 0.3);
+    font-size: 30px
+}

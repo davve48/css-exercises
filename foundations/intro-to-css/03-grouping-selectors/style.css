@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+button{
+    height:auto;
+    font-size: 30px;
+    border-color: darkgrey;
+}
+
+.click-me{
+    background-color: black;
+    color: white;
+}
+
+.no-click-me{
+    background-color: yellow;
+    color: black;
+}
